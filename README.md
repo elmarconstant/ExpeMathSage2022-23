@@ -49,6 +49,7 @@ Period : `17th October 2022 - 4th November 2022`
 | 31 - 10 - 2022 | Pieces of numbers | [day_11_slides](https://drive.google.com/file/d/1QoWTNjxmOly_XZ5ZcpLvPBpA0AAl-cL0/view?usp=sharing)  |  [day_11_notebook](https://drive.google.com/file/d/16ln72VJbq1FMZXLK-ox19v6QmWbZx997/view?usp=sharing)| <progress id="file" max="100" value="80"> 80% </progress>|
 | 01 - 11 - 2022 | More on Pieces of numbers | [day_12_slides](https://drive.google.com/file/d/1QoWTNjxmOly_XZ5ZcpLvPBpA0AAl-cL0/view?usp=sharing)  |  [day_12_notebook](https://drive.google.com/file/d/1qxw9IfWUxEtnRefrhJ6vVAIyepHjFGBX/view?usp=sharing)| <progress id="file" max="100" value="80"> 85% </progress>|
  | 02 - 11 - 2022 | [@interact](https://expemathsage.github.io/interact) | [no_slides]()  |  [no_notebook]()| <progress id="file" max="100" value="90"> 90% </progress>|
+ | 03 - 11 - 2022 | [@interact](https://expemathsage.github.io/interact) | [no_slides]()  |  [no_notebook]()| <progress id="file" max="100" value="100"> 10% </progress>|
  
  
  
